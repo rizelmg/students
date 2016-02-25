@@ -1,7 +1,7 @@
 emoji :v: y'all!
 ***
 about_me
->  Hi I'm Mark, I like to code and do 3D graphics.
+>  Hi I'm Rizel, I love foods, like to dance and surfing the net.
 
 hugot_lines/other_stuffs
-> "Happiness is just a matter of perspective. It's your choice how to look at the world".
+> "SMILE. It irritates those who wish to destroy you".
